@@ -773,7 +773,7 @@ nav {
   .sectioncontainer1{
     width: 100%;
     height: 50%;
-    background: url(Images/pexels-donaldtong94-189333.jpg);
+    background: url(images/dark\ img.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -1039,11 +1039,12 @@ nav {
   .pro-container h1{
    width: 20rem;
     font-size: 30px;
+    margin-right: 40px;
   }
   .pro-container p{
     font-size: 15px;
     width: 20rem;
-
+    margin-right: 40px;
   }
   .text{
     text-align: center;
@@ -1054,6 +1055,7 @@ nav {
     margin-top: 40px;
     width: 100%;
     display: grid;
+    margin-right: 80px;
     z-index: 2;
   }
   .pro-items div{
@@ -1210,7 +1212,7 @@ nav {
   .sectioncontainer1{
     width: 100%;
     height: 50%;
-    background: url(Images/pexels-donaldtong94-189333.jpg);
+    background: url(images/dark\ img.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -1482,11 +1484,12 @@ nav {
   .pro-container h1{
    width: 20rem;
     font-size: 30px;
+    margin-left: 30px;
   }
   .pro-container p{
     font-size: 15px;
     width: 20rem;
-
+    margin-left: 30px;
   }
   .text{
     text-align: center;
@@ -1654,7 +1657,7 @@ nav {
   .sectioncontainer1{
     width: 100%;
     height: 50%;
-    background: url(Images/pexels-donaldtong94-189333.jpg);
+    background: url(images/dark\ img.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -2098,7 +2101,7 @@ nav {
   .sectioncontainer1{
     width: 100%;
     height: 50%;
-    background: url(Images/pexels-donaldtong94-189333.jpg);
+    background: url(images/dark\ img.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
